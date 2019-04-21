@@ -1,0 +1,13 @@
+/.idea/
+/.idea/*
+/vendor/
+/logs/*
+!/logs/README.md
+/bower_components/
+/bower_components/*
+*/bower_components/
+*/bower_components/*
+/node_modules/
+/node_modules/*
+*/node_modules/
+*/node_modules/*
